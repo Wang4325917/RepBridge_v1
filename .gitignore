@@ -1,0 +1,49 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# sequencing data and mapping files
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.crai
+
+# references and annotations (obtain from public databases)
+*.fa
+*.fasta
+*.fna
+*.gb
+*.gbk
+*.gbff
+*.gff
+*.gff3
+
+# outputs and logs
+results/
+runs/
+logs/
+*.log
+*.tsv
+*.json
+*.html
+
+# figures and documents
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.pptx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+!examples/samples.tsv

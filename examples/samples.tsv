@@ -1,0 +1,3 @@
+sample	r1	r2	bam
+SRR10094357	/path/to/SRR10094357_1.fastq.gz	/path/to/SRR10094357_2.fastq.gz	
+SAMPLE_BAM			/path/to/SAMPLE.sorted.bam
